@@ -1,0 +1,6 @@
+*.bak
+$savepcb.*
+*.s#*
+*.b#*
+*.l#*
+eagle.epf
